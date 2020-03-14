@@ -10,7 +10,7 @@ Financiamento das turmas, incluindo ajuda de custo aos profissionais envolvidos,
 
 ## Alvo
 
- Modelo replicável, que pessoas interessadas possam levar pras suas cidades, aliando o desenvolvendo do mercado brasileiro com a redução da desigualdade social.
+ Modelo replicável, que pessoas interessadas possam levar pras suas cidades, aliando o desenvolvimento do mercado brasileiro com a redução da desigualdade social.
 
 ## Fatores
 
