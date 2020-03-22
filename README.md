@@ -21,3 +21,7 @@ Financiamento das turmas, incluindo ajuda de custo aos profissionais envolvidos,
 - Adolescentes têm cérebros relativamente  plásticos.
 - Mulheres tendem a ser mais cobradas por disciplina e resultados na escola, o que potencializará seus desempenhos.
 - Material didático gratuito de qualidade, e infraestrutura necessária de baixíssimo custo.
+
+## Diagramas
+
+ Encontre os diagramas com a documentação do processo [aqui](docs/mermaid-diagrams/png).
