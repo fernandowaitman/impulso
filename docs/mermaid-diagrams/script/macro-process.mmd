@@ -1,0 +1,36 @@
+graph LR
+  subgraph Fase inicial
+      FI1["Formar grupo de orientadora(e)s"]
+      FI2["Conhecer/Estudar material didático"]
+      FI3["Estabelecer local para reunir a turma experimental"]
+    FI4["Angariar equipamentos necessários"]
+  end
+  subgraph Turma experimental
+    FI1 --> TE1["Perfis compatíveis com o público alvo"]
+    TE2["Deve conter entre 3 e 6 pessoas"]
+    TE3["Público controlado"]
+    TE4["Conversar com as famílias"]
+    TE5("--> Colocando em Prática (Aprendizado)")
+  end
+  subgraph "Colocando em prática (Preparação)"
+    TE1 --> CP1["Definir comunidade"]
+    CP2["Estabelecer contato com lideranças locais"]
+    CP3["Explicar sobre a área, e sobre os objetivos do projeto"]
+    CP4["Através das lideranças, descobrir quais as famílias têm condição de participar"]
+    CP5["Conversar com as famílias indicadas"]
+  end
+  subgraph "Colocando em prática (Aprendizado)"
+    CP1 --> CPA1["Reuniões presenciais (baseadas nas plataformas de ensino)"]
+    CPA2["Inglês - Duolingo e 'Ba Ba Dum'"]
+    CPA3["Fundamentos em programação - Desafio do código"]
+    CPA4["Introdução a Ciência da Computação parte 1 - Coursera"]
+    CPA5["Introdução a Ciência da Computação parte 2 - Coursera"]
+    CPA6["Projeto(s) de Consolidação"]
+  end
+  subgraph "Conexão com o mercado de trabalho"
+    CPA1 --> CMT1["Bla bla"]
+    CMT2["Acompanhamento: condições de trabalho, suporte e aconselhamento"]
+  end
+  subgraph "Reforçar influência"
+    CMT1 --> RI1["Ex-participantes devem incentivar outras pessoas"]
+  end
